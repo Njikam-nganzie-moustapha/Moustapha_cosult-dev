@@ -2,12 +2,12 @@
 <div align="center">
 
 <!-- Professional Header with Strong Visual Impact -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Njikam%20Nganzie%20Moustapha&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Digital%20Innovation%20Architect&descAlignY=55&descAlign=62&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Njikam%20Nganzie%20Moustapha&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Digital%20Innovation%20Architect&descAlignY=55&descAlign=62&descSize=16"/>
 
 <!-- Dynamic Value Proposition -->
 <div style="margin: 80px 0;">
 
-![Value Proposition](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=🚀+Transforming+Complex+Ideas+into+Elegant+Solutions;💼+4%2B+Years+Building+E-Commerce+%26+Web+Applications;🎯+React+%2B+Laravel+%2B+Creative+Design+Expertise;✨+Ready+to+Elevate+Your+Next+Project)
+![Value Proposition](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=🚀+Transforming+Complex+Ideas+into+Elegant+Solutions;💼+4%2B+Years+Building+E-Commerce+%26+Web+Applications;🎯+React+%2B+Laravel+%2B+Creative+Design+Expertise;)
 
 </div>
 
